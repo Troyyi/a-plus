@@ -1,6 +1,6 @@
 # A+ Programming Language
 
-A fun attempt to update a 40 year old programming language for modern application
+A fun attempt to update a 30 year old programming language for modern application
 
 
 [Log Notes 02/26/2024]
